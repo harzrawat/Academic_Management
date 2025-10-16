@@ -129,5 +129,5 @@ After deciding features for the working model, we will move to the **Design Stag
 5. **Deployment** – Launching the portal  
 6. **Management** – Maintaining and updating the portal
 
-
+> Wine is spiling Baby, Be Ready 
 
